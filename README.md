@@ -19,3 +19,5 @@ IMAGE CLASSIFICATION OR NATURAL
 LANGUAGE PROCESSING USING
 
 TENSORFLOW OR PYTORCH
+
+![Image](https://github.com/user-attachments/assets/1d7b3aa0-5e3a-4a28-ad37-51533fb91f86)
