@@ -1,1 +1,21 @@
 # DEEP-LEARNING-PROJECT
+
+Company name:CodTech IT Solutions
+
+Name:M K Chandana
+
+Intern id:CT6WTEP
+
+Domain:Data Science
+
+Duration:6 weeks
+
+Mentor:Neelam Harish
+
+Description:IMPLEMENT A DEEP LEARNING MODEL FOR
+
+IMAGE CLASSIFICATION OR NATURAL
+
+LANGUAGE PROCESSING USING
+
+TENSORFLOW OR PYTORCH
